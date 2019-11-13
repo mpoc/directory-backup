@@ -1,0 +1,12 @@
+/home/mpoc/windows-shared/backup/backups
+/home/mpoc/windows-shared/backup/latest-backup.tar.gz.gpg
+/home/mpoc/windows-shared/temp
+/home/mpoc/.cache
+/home/mpoc/.tldr
+/home/mpoc/.rustup
+/home/mpoc/.cargo
+/home/mpoc/.local
+/home/mpoc/.gradle
+/home/mpoc/.npm
+/home/mpoc/.node-gyp
+node_modules
